@@ -1,0 +1,17 @@
+{
+    "MArko": {
+        "telefon": "12345",
+        "email": "m@g",
+        "adresa": "put"
+    },
+    "Kely": {
+        "telefon": "452845",
+        "email": "kelly@gmail.xom",
+        "adresa": "Street"
+    },
+    "Vanja": {
+        "telefon": "0957458",
+        "email": "vanja@zd.hrtom",
+        "adresa": "Trg"
+    }
+}
